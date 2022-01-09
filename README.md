@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lorinachey
-- 👀 I’m interested in Quantum Computing and RF Engineering!
-- 🌱 I’m currently learning PCB Design, C++ performance programming, and applications of electromagnetics.
-- 💞️ I’m looking to collaborate on research projects with a RF/microwave, electromagnetics, or quantum engineering focus.
+- 👀 I’m interested in Operating Systems, Optics, Graphics, and AR/VR!
+- 🌱 I’m currently completing a Master's degree while working fulltime at Qualcomm.
+- 💞️ I’m looking for exciting opportunities in software engineering!
 - 📫 You can reach me on LinkedIn at https://linkedin.com/in/lorinachey
 
 <!---
