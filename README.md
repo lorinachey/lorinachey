@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorinachey
 - 👀 I’m interested in loads of topics within the Computer Science/Software Engineering realm.
-- 🌱 I’m currently completing a Master's degree while working fulltime at Amazon.
+- 🌱 I’m currently completing a Master's degree in Robotics and Autonomous Systems.
 - 💞️ I’m looking for exciting opportunities in software engineering!
 - 📫 You can reach me on LinkedIn at https://linkedin.com/in/lorinachey
 
