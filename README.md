@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lorinachey
-- 👀 I’m interested in solving problems for Autonomous Vehicles and Robotic Systems!
+- 👀 I solve perception and navigation problems for Autonomous Vehicles and Robotic Systems!
 - 🌱 I’m currently a PhD Student at the University of Colorado Boulder.
-- 💞️ I am always considering internships in the field to supplement my PhD program!
+- 💞️ I am actively pursuing internships to supplement my PhD program!
 - 📫 You can reach me on LinkedIn at https://linkedin.com/in/lorinachey or view my website at https://lorinachey.github.io/.
 
 <!---
